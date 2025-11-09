@@ -23,7 +23,7 @@ Five key optimizations were implemented at the schema level:
 ## How to View the Results
 
 The best place to start is by reading the full report:
-[**View the Final Report](./report/db_optimization_report.pdf)**
+[View the Final Report](./report/db_optimization_report.pdf)
 
 To see the code changes directly, you can compare the two files in the `/code/` directory:
 
